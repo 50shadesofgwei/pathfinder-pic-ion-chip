@@ -1,6 +1,6 @@
 # Pathfinder PIC Ion Chip
 
-CAD model for the Pathfinder PIC ion-trap chip — a photonic-integrated trapped-ion chip for a hybrid-locality quantum computing architecture.
+CAD model for the Pathfinder PIC chip, a photonic-integrated trapped-ion chip built to support a hybrid-locality quantum computing architecture.
 
 ## Architecture overview
 
@@ -32,7 +32,7 @@ A read-only viewer is available via the Autodesk Viewer (https://viewer.autodesk
 
 ## Status
 
-This design is an early-stage sketch — exact powers, waists, crosstalk budgets, and many fabrication-level details are still being worked out. Feedback from PIC designers and trapped-ion experimentalists is welcome.
+This design is an early-stage sketch; exact powers, waists, crosstalk budgets, and many fabrication-level details are still being worked out. Feedback from PIC designers and trapped-ion experimentalists is welcome and encouraged.
 
 ## Contact
 
